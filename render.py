@@ -10,7 +10,6 @@ print(onlyfiles)
 
 b = 0
 
-
 Bpath = '"C:/Program Files/Blender Foundation/Blender 3.0/blender.exe"'
 
 for i in onlyfiles:
